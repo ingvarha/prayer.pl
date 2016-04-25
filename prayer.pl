@@ -23,10 +23,10 @@ fear ); not evil;
 for ( $you = with, me, your ) 
 { rod and $staff = my $comfort }
 
-for ( me, prepare, a ){table};
-close to; my $enemies and
-bless my $head; with oil
-until my $cup, overruns;
+for ( me, prepare, a ){ table;
+close to; my $enemies
+and bless my $head; with oil
+until my $cup, overruns; }
 
 Goodness and mercy; 
 shall follow me 
