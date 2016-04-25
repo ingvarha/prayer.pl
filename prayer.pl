@@ -24,9 +24,8 @@ for ( $you = with, me, your )
 { rod and $staff = my $comfort }
 
 for ( me, prepare, a ){table};
-in; the; presence;
-of; my $enemies and
-anoint; my $head; with oil
+close to; my $enemies and
+bless my $head; with oil
 until my $cup, overruns;
 
 Goodness and mercy; 
